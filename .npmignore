@@ -1,0 +1,5 @@
+config/
+default.db
+node_modules/
+src/
+tsconfig.json

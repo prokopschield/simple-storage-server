@@ -1,0 +1,4 @@
+config/
+default.db
+lib/
+node_modules/

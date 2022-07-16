@@ -924,10 +924,10 @@ inherits@2:
   resolved "https://registry.yarnpkg.com/inherits/-/inherits-2.0.4.tgz#0fa2c64f932917c3433a0ded55363aae37416b7c"
   integrity sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==
 
-insta-db@^0.1.0-5:
-  version "0.1.0-5"
-  resolved "https://registry.yarnpkg.com/insta-db/-/insta-db-0.1.0-5.tgz#566203d7926a44c72a67e815718370c4bf420d8f"
-  integrity sha512-R3IbDffz7JHAX1mT2QJyxCQ2FTlMQco28XYnAOiE5hcJRahR1zAPGdUi24gIuo1nG8LHkPKWAgBCsUIdkEWm2g==
+insta-db@^0.1.0-7:
+  version "0.1.0-7"
+  resolved "https://registry.yarnpkg.com/insta-db/-/insta-db-0.1.0-7.tgz#f9cb239ebff2c286cb1aa431f900ba6cee30d263"
+  integrity sha512-iTY2e3gNihPe5inhwTawxnYU41wEZyRejoaqOwO7ezNvGgUg4UnAC+YB0bbHhHpPHCnAztuvH+KhsIXlEvrnng==
   dependencies:
     "@types/node" ">=14"
 
@@ -1312,10 +1312,10 @@ prettier@^2.5.1:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
   integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
-ps-std@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/ps-std/-/ps-std-0.1.5.tgz#5e37c59161f2d35e30b10924eeaf36c0c9c1048f"
-  integrity sha512-JsehTyURP91H00vZAJz9bFLp887+U9/z8JuGpAK4tchfEjVA8JTAOxvK72kr4Xm8L/ypqxk0FJsO4sqS6VHBhg==
+ps-std@^0.1.6:
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/ps-std/-/ps-std-0.1.6.tgz#028f1a7fd4af2d685de54df3f1f94b7df7f9dd03"
+  integrity sha512-363nSS/KXlvf92zDPo3BEJ5Ghwuzf/RQUpg4VkK/lsXol6Fxmt88qofiuhmvQfeAD1XYySeX13updBNwATRYRA==
 
 punycode@^2.1.0:
   version "2.1.1"

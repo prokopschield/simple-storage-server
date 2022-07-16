@@ -1,7 +1,7 @@
 {
     "name": "@prokopschield/simple-storage-server",
     "description": "Simple storage server",
-    "version": "0.1.0-3",
+    "version": "0.1.0-4",
     "main": "lib/index.js",
     "bin": {
         "simple-storage-server": "lib/cli.js"
@@ -14,8 +14,8 @@
     "author": "Prokop Schield",
     "dependencies": {
         "doge-config": "^0.3.18",
-        "insta-db": "^0.1.0-5",
-        "ps-std": "^0.1.5",
+        "insta-db": "^0.1.0-7",
+        "ps-std": "^0.1.6",
         "require-gpl": "^0.1.2"
     },
     "devDependencies": {
